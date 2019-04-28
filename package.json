@@ -1,0 +1,26 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Digital profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "test run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AARSTAR65/resume-65.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "aarstar_65",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AARSTAR65/resume-65/issues"
+  },
+  "homepage": "https://github.com/AARSTAR65/resume-65#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
