@@ -21,6 +21,6 @@ app.get('/res-tech.html', function (req, res) {
 
 
 
-app.listen(3000, function (req, res) {
+app.listen(process.env.PORT || 5000, function (req, res) {
    console.log("Server chaalu ho gya re!!!")
 });     
