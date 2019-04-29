@@ -4,6 +4,9 @@
   "description": "Digital profile",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js"
+  },
+  "scripts": {
     "test": "test run"
   },
   "repository": {
